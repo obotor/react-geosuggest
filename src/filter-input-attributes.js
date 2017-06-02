@@ -28,6 +28,7 @@ const allowedAttributes = [
   'onMouseOver',
   'onMouseUp',
   'onPaste',
+  'onTouchTap',
   'pattern',
   'placeholder',
   'readOnly',
